@@ -1,4 +1,3 @@
-
 import { gsap } from "gsap/all";
 import $ from 'jquery';
 $(document).ready(function () {
